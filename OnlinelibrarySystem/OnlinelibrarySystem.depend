@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1690457524 source:e:\codeforces\onlinelibrarysystem\book.cpp
+	"Book.h"
+
+1690316233 e:\codeforces\onlinelibrarysystem\book.h
+	"User.h"
+	<iostream>
+
+1690458119 source:e:\codeforces\onlinelibrarysystem\main.cpp
+	<iostream>
+	"User.h"
+	"Book.h"
+	"UserList.h"
+	"BookList.h"
+
+1690311498 e:\codeforces\onlinelibrarysystem\user.h
+	<iostream>
+
+1690458119 source:e:\codeforces\onlinelibrarysystem\user.cpp
+	"User.h"
+	<iostream>
+
+1690332118 e:\codeforces\onlinelibrarysystem\userlist.h
+	"User.h"
+
+1690406882 source:e:\codeforces\onlinelibrarysystem\userlist.cpp
+	"UserList.h"
+
+1690453989 source:e:\codeforces\onlinelibrarysystem\booklist.cpp
+	"BookList.h"
+
+1690456567 e:\codeforces\onlinelibrarysystem\booklist.h
+	"Book.h"
+
+1690457524 source:e:\fci\oop projects\onlinelibrarysystem\book.cpp
+	"Book.h"
+
+1690316233 e:\fci\oop projects\onlinelibrarysystem\book.h
+	"User.h"
+	<iostream>
+
+1690311498 e:\fci\oop projects\onlinelibrarysystem\user.h
+	<iostream>
+
+1690453989 source:e:\fci\oop projects\onlinelibrarysystem\booklist.cpp
+	"BookList.h"
+
+1690456567 e:\fci\oop projects\onlinelibrarysystem\booklist.h
+	"Book.h"
+
+1690931568 source:e:\fci\oop projects\onlinelibrarysystem\main.cpp
+	<iostream>
+	"User.h"
+	"Book.h"
+	"UserList.h"
+	"BookList.h"
+
+1690332118 e:\fci\oop projects\onlinelibrarysystem\userlist.h
+	"User.h"
+
+1690458119 source:e:\fci\oop projects\onlinelibrarysystem\user.cpp
+	"User.h"
+	<iostream>
+
+1690406882 source:e:\fci\oop projects\onlinelibrarysystem\userlist.cpp
+	"UserList.h"
+
